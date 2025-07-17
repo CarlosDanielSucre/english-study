@@ -1,6 +1,3 @@
-# english-study
-This is a repository dedicated to documenting my journey of learning English.
-
 ## 📚 My English Learning Journey Notes
 Welcome to my personal repository dedicated to documenting my journey of learning English! This space serves as a centralized hub for all my notes, exercises, resources, and reflections as I strive to improve my English language skills.
 
