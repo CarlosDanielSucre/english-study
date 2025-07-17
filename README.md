@@ -49,7 +49,7 @@ Here's a suggested structure for how I plan to organize my notes. Feel free to a
   - `books.md`: List of English books I'm reading or plan to read.
 
 ### 🚀 How I'm Using This Repository
-Each markdown file (.md) will contain my personal notes, examples, and explanations for the specific topic. I might also include links to external resources that I found particularly helpful.
+Each markdown file (`.md`) will contain my personal notes, examples, and explanations for the specific topic. I might also include links to external resources that I found particularly helpful.
 
 This repository is a living document of my learning, and I'll be updating it regularly as I progress.
 
