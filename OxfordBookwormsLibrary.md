@@ -236,7 +236,7 @@ The list below contains the names of Oxford University books, separated by stage
 ---
 
 ## Stage 6 (C1)
-### Aventura / Drama
+### AventurE / Drama
 - American Crime Stories
 - Cry Freedom
 - Night without End
@@ -248,14 +248,12 @@ The list below contains the names of Oxford University books, separated by stage
 - The Fly and Other Horror Stories
 - The Woman in White
 
-### Romance / Clássicos
+### Romance / ClássicS
 - Jane Eyre
 - The Joy Luck Club
 - Pride and Prejudice
 - Tess of the d’Urbervilles
 - Vanity Fair
 
----
 
-# Fim da lista
 
