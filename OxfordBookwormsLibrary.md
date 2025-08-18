@@ -145,7 +145,7 @@ The list below contains the names of Oxford University books, separated by stage
 ### Clássicos
 - Frankenstein
 - Othello
-- [The Picture of Dorian Gray](books/stage-03/The Picture of Dorian Gray Level 3 Oxford Bookworms Library -- Oscar Wilde -- 50f8f3057a894d5ea1410d9cd5bb1bff -- Anna’s Archive.epub)
+- [The Picture of Dorian Gray](books/stage-03/The-Picture-of-Dorian-Gray-Level-3-Oxford-Bookworms-Library----Oscar-Wilde----50f8f3057a894d5ea1410d9cd5bb1bff----Anna’s-Archive.epub)
 - The Wind in the Willows
 
 ### Diversos / Outros
